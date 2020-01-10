@@ -12,7 +12,7 @@
 
 #### number is order
  - (1)flutter tutorial ->  (4)weatherAPI app
- - (2)jsp shell server project
+ - (2)jsp cmd project
  - (3)javascript
  - (3)intellij install -> java study    
 
@@ -30,6 +30,18 @@
 **2020-01-07 ~ 08 TODO**
 
     - flutter tutorial
+    
+<hr>
+    
+**2020-01-09 ~ 10 TODO**
+
+    - jsp cmd project
+
+**2020-01-11 TODO**
+
+    - find javascript tutorial and refer then stduy
+
+
     
     
     
