@@ -14,6 +14,9 @@
  - (1)flutter tutorial ->  (4)weatherAPI app
  - (2)jsp cmd project
  - (3)javascript
+      - https://www.youtube.com/watch?v=gxzy_CFqV1M&list=PLq8wAnVUcTFWhQrIXNN6kPYXJA6X2IQM4
+      - https://www.inflearn.com/roadmaps/231
+      - nomad coder Vanilla Js 2
  - (3)intellij install -> java study    
 
 <hr>
