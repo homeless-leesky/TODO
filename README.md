@@ -11,16 +11,14 @@
 ### Now focusing.
 
 #### number is order
- - (1)flutter tutorial ->  (4)weatherAPI app
- - (2)jsp cmd project
- - (3)javascript
+ - ~~(1)flutter tutorial~~ ->  **(4)weatherAPI app**(c)
+ - ~~(2)jsp cmd project~~
+ - **(3)javascript**
       - https://www.youtube.com/watch?v=gxzy_CFqV1M&list=PLq8wAnVUcTFWhQrIXNN6kPYXJA6X2IQM4 (a)
       - https://www.inflearn.com/roadmaps/231 (a)
       - nomad coder Vanilla Js 2 (b)
- - (3)intellij install -> java study (b)    
- * (1),(2) clear.
-
-
+ - **(3)think data structure** -> intellij install -> keep studying (b,c)    
+ 
 <hr>
 
 **2020-01-06 TODO**
