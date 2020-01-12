@@ -18,6 +18,8 @@
       - https://www.inflearn.com/roadmaps/231 (a)
       - nomad coder Vanilla Js 2 (b)
  - (3)intellij install -> java study (b)    
+ * (1),(2) clear.
+
 
 <hr>
 
