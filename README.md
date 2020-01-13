@@ -53,7 +53,7 @@
 
     - javascript study => a -> b 순서로
     - javascript DOM 17강 clear
-    
+    - 인프런 const 특성까지 clear    
 
     
     
