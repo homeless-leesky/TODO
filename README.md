@@ -18,6 +18,9 @@
       - https://www.inflearn.com/roadmaps/231 (a)
       - nomad coder Vanilla Js 2 (b)
  - **(3)think data structure** -> intellij install -> keep studying (b,c)    
+ - javascript(es5)로 DOM object를 다루면서 javascript에 대한 기본기 공부
+ - 동시에 es6를 익히면서 차이점 공부
+ 
  
 <hr>
 
