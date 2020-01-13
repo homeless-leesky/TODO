@@ -55,6 +55,13 @@
     - javascript DOM 17강 clear
     - 인프런 const 특성까지 clear    
 
+**2020-01-14 TODO**
+
+    - javascript DOM 30강
+    - 인프런 배열까지
+    
+
+    
     
     
     
