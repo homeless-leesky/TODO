@@ -21,7 +21,7 @@
  - **(3)think data structure** -> intellij install -> keep studying (b,c)    
  - javascript(es5)로 DOM object를 다루면서 javascript에 대한 기본기 공부
  - 동시에 es6를 익히면서 차이점 공부
- 
+ - https://medium.com/@bluesh55/javascript-prototype-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-f8e67c286b67 <<= javascript prototype
  
 <hr>
 
