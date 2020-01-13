@@ -51,7 +51,7 @@
 **2020-01-13 TODO**
 
     - javascript study => a -> b 순서로
-    - javascript DOM 11강 clear
+    - javascript DOM 17강 clear
     
 
     
