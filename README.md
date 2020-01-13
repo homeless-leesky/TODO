@@ -16,7 +16,7 @@
  - **(3)javascript**
       - https://www.youtube.com/watch?v=gxzy_CFqV1M&list=PLq8wAnVUcTFWhQrIXNN6kPYXJA6X2IQM4 (a)
       - https://www.inflearn.com/roadmaps/231 (a)
-      -https://programmer-seva.tistory.com/category/JavaScript/JavaScript?page=2 (a)
+      - https://programmer-seva.tistory.com/category/JavaScript/JavaScript?page=2 (a)
       - nomad coder Vanilla Js 2 (b)
  - **(3)think data structure** -> intellij install -> keep studying (b,c)    
  - javascript(es5)로 DOM object를 다루면서 javascript에 대한 기본기 공부
