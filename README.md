@@ -58,7 +58,7 @@
 **2020-01-14 TODO**
 
     - javascript DOM 25강 clear
-    - 인프런 배열까지
+    - 인프런 배열까지 clear
     
 
     
