@@ -65,7 +65,7 @@
 
     - javascript DOM 32강 clear
     - dom 객체와 node구조 이해하기
-    - 인프런 객체까지
+    - 인프런 객체까지 clear
     
     
     
