@@ -63,7 +63,8 @@
 
 **2020-01-15 TODO**
 
-    - javascript DOM 35강 
+    - javascript DOM 30강 clear
+    - dom 객체와 node구조 이해하기
     - 인프런 객체까지
     
     
