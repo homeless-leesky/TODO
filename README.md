@@ -70,7 +70,7 @@
 **2020-01-16 TODO**
 
     - javascript DOM 35강
-    - 인프런 destructuring까지
+    - 인프런 destructuring까지 clear
     
     
     
