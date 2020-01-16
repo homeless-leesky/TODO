@@ -67,6 +67,11 @@
     - dom 객체와 node구조 이해하기
     - 인프런 객체까지 clear
     
+**2020-01-16 TODO**
+
+    - javascript DOM 35강
+    - 인프런 destructuring까지
+    
     
     
     
