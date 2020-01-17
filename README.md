@@ -72,10 +72,18 @@
     - javascript DOM 35강 clear
     - 인프런 destructuring까지 clear
     
-**2020-01-16 TODO**
+**2020-01-17 TODO**
 
     - javascript DOM 38강 clear
-    - 인프런 set까지
+    - 인프런 set까지 pass
+    
+**2020-01-18 TODO**
+
+    - javascript DOM 42강까지
+    - 인프런 set, map
+    
+    
+        
     
     
     
