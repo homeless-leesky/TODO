@@ -74,7 +74,7 @@
     
 **2020-01-16 TODO**
 
-    - javascript DOM 38강
+    - javascript DOM 38강 clear
     - 인프런 set까지
     
     
