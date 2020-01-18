@@ -2,11 +2,12 @@
 **This repository is a todo list for my goal.**
 
     A dream written down with a date becomes a goal.
+    꿈을 날짜 옆에 적으면 목표가 되며
     A goal broken down becomes a plan.
+    목표를 여러단계로 나누면 계획이 되며
     A plan backed by action makes your dream come true.
+    계획을 실행에 옮기면 꿈이 이루어진다.
                      – Greg S. Reid -
-
-
 
 ### Now focusing.
 
