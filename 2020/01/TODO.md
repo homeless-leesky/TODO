@@ -18,10 +18,13 @@
 
     - jsp cmd project
 
+<hr>
+
 **2020-01-11 ~ 12 TODO**
 
     - find javascript tutorial and refer then stduy
 
+<hr>
 
 **2020-01-13 TODO**
 
@@ -29,33 +32,50 @@
     - javascript DOM 17강 clear
     - 인프런 const 특성까지 clear    
 
+<hr>
+
 **2020-01-14 TODO**
 
     - javascript DOM 25강 clear
     - 인프런 배열까지 clear
     
 
+<hr>
+
 **2020-01-15 TODO**
 
     - javascript DOM 32강 clear
     - dom 객체와 node구조 이해하기
     - 인프런 객체까지 clear
-    
+
+<hr>
+
+
 **2020-01-16 TODO**
 
     - javascript DOM 35강 clear
     - 인프런 destructuring까지 clear
+    
+<hr>    
+    
     
 **2020-01-17 TODO**
 
     - javascript DOM 38강 clear
     - 인프런 set까지 pass
     
+<hr>    
+    
 **2020-01-18 TODO**
         
     - break time
+    
+<hr>    
+    
     
 **2020-01-19 TODO**
 
     - javascript DOM 44강까지
     - 인프런 set, map
+
+<hr>
