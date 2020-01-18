@@ -78,12 +78,14 @@
     - 인프런 set까지 pass
     
 **2020-01-18 TODO**
-
-    - javascript DOM 42강까지
-    - 인프런 set, map
-    
-    
         
+        -break
+    
+**2020-01-19 TODO**
+
+    - javascript DOM 44강까지
+    - 인프런 set, map
+
     
     
     
