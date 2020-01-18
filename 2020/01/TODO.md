@@ -1,3 +1,8 @@
+## 2020년 01월
+
+        It is not enough to have knowledge, one must apply it. 
+        It is not enough to have wishes, one must also accomplish it.
+                        - Johann Wolfgang von Goethe -
 
 **2020-01-06 TODO**
 
