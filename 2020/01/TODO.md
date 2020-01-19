@@ -82,7 +82,7 @@
     
 **2020-01-19 TODO**
 
-    - javascript DOM 44강까지
+    - javascript DOM 44강까지 clear
     - 인프런 set, map
 
 <hr>
