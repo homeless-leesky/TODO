@@ -89,6 +89,6 @@
 **2020-01-20 TODO**
 
     - 인프런 tagged template literals clear
-    - javacript es6 
+    - javacript es6 91p clear
 
 <hr>
