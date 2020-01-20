@@ -86,3 +86,9 @@
     - 인프런 set, map clear
 
 <hr>
+**2020-01-20 TODO**
+
+    - 인프런 tagged template literals clear
+    - javacript es6 
+
+<hr>
