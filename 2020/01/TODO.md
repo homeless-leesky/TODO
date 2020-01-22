@@ -103,4 +103,5 @@
 **2020-01-22 TODO**
 
     - javascript es6 138p clear
+    - 인프런 함수 clear
 <hr>
