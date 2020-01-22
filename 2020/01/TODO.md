@@ -98,3 +98,9 @@
 
     - 숙취...
 <hr>
+
+
+**2020-01-22 TODO**
+
+    - javascript es6 138 clear
+<hr>
