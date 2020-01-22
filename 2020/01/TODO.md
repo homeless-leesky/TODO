@@ -102,5 +102,5 @@
 
 **2020-01-22 TODO**
 
-    - javascript es6 138 clear
+    - javascript es6 138p clear
 <hr>
