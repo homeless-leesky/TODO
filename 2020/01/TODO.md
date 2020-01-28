@@ -114,6 +114,6 @@
 
 **2020-01-28 TODO**
 
-    - 인프런 객체 clear
+    - 인프런 module clear
     
 <hr>
