@@ -117,3 +117,11 @@
     - 인프런 module clear
     
 <hr>
+
+**2020-01-29 TODO**
+
+    - 인프런 proxy clear
+    - mini project webpack 및 nodeJs 설정 완료
+    
+    
+<hr>
