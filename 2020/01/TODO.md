@@ -125,3 +125,8 @@
     
     
 <hr>
+
+**2020-01-30 TODO**
+
+    - mini project babel 및 webpack-dev-server 설정
+<hr>
