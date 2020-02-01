@@ -8,6 +8,7 @@
 
 **2020-02-01 TODO**
 
-  - javascript patingJS add eventlistener and implement drawing function 
-    
+    - javascript patingJS add eventlistener and implement drawing function 
+
+
 <hr>
