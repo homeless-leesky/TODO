@@ -9,3 +9,12 @@
 
 
 <hr>
+
+
+**2020-02-02 TODO**
+
+    - javascript patingJS clear
+    - javscript miniproject bloglist 추가까지
+
+
+<hr>
