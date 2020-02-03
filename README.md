@@ -15,8 +15,8 @@
  - https://medium.com/@bluesh55/javascript-prototype-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-f8e67c286b67 <<= javascript prototype
  <hr>
     
-    1. ajax -> facebook, google login
-    1. modern web page
+    1. ajax(2020.02.03 clear) -> facebook, google login
+    1. modern web page(2020.02.03 start)
     1. nodeJS
     2. AWS 실습
      
