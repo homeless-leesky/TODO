@@ -24,4 +24,11 @@
     - javascript miniproject 진행 중에 api 서버가 닫혀있어서 중도 포기
     - 모던웹 실습 시작
     - 생활코딩 ajax clear
+    - modern web vuetify 설정 clear
+<hr>
+
+**2020-02-04 TODO**
+
+    - 생활코딩 facebook login
+    - modern web vuetify 재설정 및 계속 진행
 <hr>
