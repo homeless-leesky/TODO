@@ -23,5 +23,5 @@
 
     - javascript miniproject 진행 중에 api 서버가 닫혀있어서 중도 포기
     - 모던웹 실습 시작
-    - 생활코딩 ajax 
+    - 생활코딩 ajax clear
 <hr>
