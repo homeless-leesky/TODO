@@ -29,6 +29,9 @@
 
 **2020-02-04 TODO**
 
-    - 생활코딩 facebook login
-    - modern web vuetify 재설정 및 계속 진행
+    - 생활코딩 facebook login 
+    - modern vuetify add menu
+    
 <hr>
+
+
