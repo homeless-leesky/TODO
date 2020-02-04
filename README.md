@@ -16,7 +16,7 @@
  - https://fkkmemi.github.io/categories/#nemv <<= modern web 
  <hr>
     
-    1. ajax(2020.02.03 clear) -> facebook, google login
+    1. ajax(2020.02.03 clear) -> facebook(2020.02.04 start), google login
     1. modern web page(2020.02.03 start)
     1. nodeJS
     2. AWS 실습
