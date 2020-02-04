@@ -29,8 +29,9 @@
 
 **2020-02-04 TODO**
 
-    - 생활코딩 facebook login 
-    - modern vuetify add menu
+    - 생활코딩 facebook login
+    - modern vuetify add menu list
+    - deprecated 된 기능들 찾아서 리팩토링 해야함
     
 <hr>
 
