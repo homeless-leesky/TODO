@@ -36,3 +36,10 @@
 <hr>
 
 
+**2020-02-05 TODO**
+
+    - 생활코딩 facebook login clear -> 시간나면 디자인
+    - modern web javasciprt에 대한 이야기 까지 cleaer
+    
+<hr>
+
