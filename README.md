@@ -16,10 +16,8 @@
  - https://fkkmemi.github.io/categories/#nemv <<= modern web 
  <hr>
     
-    1. ajax(2020.02.03 clear) -> facebook(2020.02.04 start), google login
-    1. modern web page(2020.02.03 start)
-    1. nodeJS
-    2. AWS 실습
+    1. ajax(2020.02.03 clear) -> facebook(2020.02.05 clear) -> google login -> Oatho -> DNS -> http -> nodeJS
+    1. modern web page(2020.02.03 start) -> aws
      
     *동시에 자바스크립트 es6+ coding style guide, you dont know JS 읽기
     
