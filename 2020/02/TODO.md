@@ -42,4 +42,8 @@
     - modern web javasciprt에 대한 이야기 까지 cleaer
     
 <hr>
+**2020-02-06 TODO**
 
+    - modern web axios로 backend 서버 api 호출 clear
+    
+<hr>
