@@ -47,3 +47,8 @@
     - modern web axios로 backend 서버 api 호출 clear
     
 <hr>
+**2020-02-07 TODO**
+
+    - modern web mongoDB설치, mongoose CRUD test finished
+    
+<hr>
