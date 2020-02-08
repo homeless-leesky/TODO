@@ -52,3 +52,9 @@
     - modern web mongoDB설치, mongoose CRUD test finished
     
 <hr>
+
+**2020-02-08 TODO**
+
+    - modern web mongoDB, api서버 연결, 프론트에서 호출하여 user CRUD구현
+    
+<hr>
