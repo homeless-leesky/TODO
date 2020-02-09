@@ -60,3 +60,9 @@
     - modern web mongoDB, api서버 연결, 프론트에서 호출하여 user CRUD구현
     
 <hr>
+
+**2020-02-09 TODO**
+
+    - modern web aws instance에 git, node 설치 완료 및 git clone 확인
+    
+<hr>
