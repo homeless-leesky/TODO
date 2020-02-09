@@ -64,5 +64,6 @@
 **2020-02-09 TODO**
 
     - modern web aws instance에 git, node 설치 완료 및 git clone 확인
+    - aws에 배포 clear, 다른 컴퓨에서 접속 확인
     
 <hr>
