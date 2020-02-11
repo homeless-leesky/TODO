@@ -73,3 +73,9 @@
 
     - 배포환경설정 및 public domain 설정해보기
 <hr>
+
+**2020-02-11 TODO**
+
+    - mongodb atlas setting , api 미들웨어, jwt 
+
+<hr>
