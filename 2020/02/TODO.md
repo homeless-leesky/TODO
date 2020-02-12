@@ -83,7 +83,7 @@
 
 **2020-02-12 TODO**
 
-    - mongodb atlas setting , api 미들웨어, jwt 
+    - 자바스크립트 비동기에 대한 
 
 <hr>
 
