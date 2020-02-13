@@ -89,7 +89,7 @@
 
 **2020-02-13 TODO**
 
-    - request header, local starage test
+    - request header, local starage test, login 틀 구현
 
 <hr>
 
