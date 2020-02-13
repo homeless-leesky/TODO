@@ -83,7 +83,13 @@
 
 **2020-02-12 TODO**
 
-    - 자바스크립트 비동기에 대한 
+    - 자바스크립트 비동기 학습
+
+<hr>
+
+**2020-02-13 TODO**
+
+    - request header, local starage test
 
 <hr>
 
