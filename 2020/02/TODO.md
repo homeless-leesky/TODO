@@ -93,3 +93,9 @@
 
 <hr>
 
+
+**2020-02-14 TODO**
+
+    - token 인증 구현, nodejs router까지 clear
+
+<hr>
