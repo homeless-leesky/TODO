@@ -99,3 +99,10 @@
     - token 인증 구현, nodejs router까지 clear
 
 <hr>
+
+
+**2020-02-15 TODO**
+
+    - 진로 탐구
+
+<hr>
