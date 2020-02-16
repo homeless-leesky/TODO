@@ -106,3 +106,9 @@
     - 진로 탐구
 
 <hr>
+
+**2020-02-16 TODO**
+
+    - vue router 네비게이션 가드, vuex 테스트, 페이지 권한 구현, mysql data 삽입
+
+<hr>
