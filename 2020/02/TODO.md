@@ -118,3 +118,11 @@
     - 페이지 관리 api 오류 수정 시도 -> guest의 토큰을 sign하지 않아서 뭔가 오류가 생긴 것 같음 다시 확인해봐야함
 
 <hr>
+
+
+**2020-02-18 TODO**
+
+    - 페이지 관리 api 오류 수정 -> localstorage.getItem('token')의 결과가 null이었음
+    - null은 object라서 request header 넣어서 보낼때 문자열 `[Object]object`로 파싱되서 날라감
+    - ---> 파싱 데이터 처리 로직 수정함
+<hr>
