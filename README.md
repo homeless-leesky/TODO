@@ -9,6 +9,12 @@
     계획을 실행에 옮기면 꿈이 이루어진다.
                      – Greg S. Reid -
 
+
+
+#### 🐱‍👤🐱‍🏍🐱‍🐉(2020.02.20 release)-> <a href="./idea/README.md">my idea bank</a>
+
+<hr>
+
 ### Now focusing.
 
 #### number is order
