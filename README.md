@@ -23,7 +23,7 @@
  <hr>
     
     1. ajax(2020.02.03 clear) -> facebook(2020.02.05 clear) -> google login -> Oatho -> DNS -> http -> nodeJS
-    1. modern web page(2020.02.03 start) -> aws
+    1. modern web page(2020.02.03 start, 2020.02.26 끝)
      
     *동시에 자바스크립트 es6+ coding style guide, you dont know JS 읽기
     
