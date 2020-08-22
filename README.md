@@ -25,7 +25,7 @@
     - nodejs, javascript concept, memi-site, 풀스택 로드맵 이후에 -> backend 로드맵 보기
 ##### order
     --------------08 - 09------------------
-    1. frontend 1(fin),2
+    1. frontend 1(fin),2(fin)
     2. javascript concept 1,2,
     3. frontend 3, javscript concept 3
     4. 시간 남으면 memi-site
