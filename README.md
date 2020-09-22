@@ -15,33 +15,44 @@
 
 <hr>
 
-### Now focusing.
-##### 1. 2021.1 까지 목표
-    - 프론트엔드 개발자 로드맵 1,2,3,5,6 -> 이후에 react 로드맵 보기 + velopert 블로그 + nomad coder 영상
-    - 자바스크립트 개념 로드맵 1,2,3 -> 이후에 5,6 (나중에)
-    - 풀스택 로드맵 1,2 -> 이후에 3,4,5
-    - 조현영 node.js 교과서
-    - memi-site -> 웹 개발 트렌드, 개발 방법 배우기, spa
-    - nodejs, javascript concept, memi-site, 풀스택 로드맵 이후에 -> backend 로드맵 보기
-##### order
-    --------------08 - 09------------------
-    1. frontend 1(fin),2(fin)
-    2. javascript concept 1,2,
-    3. frontend 3, javscript concept 3
-    4. 시간 남으면 memi-site
-    --------------10 - 11------------------ --> 이때 자기개발지원금 사용할듯?
-    1. front 5, node.js start
-    2. front 6,
-    3. 시간 남으면 memi-site
-    4. front는 순서대로 하되, nodejs랑 memi-site는 꾸준히 번갈아가면서!
-    --------------12 - 01------------------
-    - 풀스택 로드맵 1,2
-    - node.js 마무리
-    - memi-site 개발 마무리
-    ---------------------------------------
-    - 이후엔 다시 계획 세우기 -> 정보처리산업기사가 아마 2월중에 할듯?
-    - 하면서 계획 다시 수정, 일단 이렇게
+### Now focusing.(2020.12.31까지 목표)
+
+##### react의 길
+    - 프론트엔드 개발자 로드맵 1(html 기초), 2(css 기초), 3(사이트 카피)
+    - 시멘틱 html
+    - 페이지를 나누고 dom 설계
+    - css grid, flexbox를 활용한 레이아웃
+    - 반응형 웹 디자인 미디어 쿼리
+    - javascript 기본기 (필수)
+    - dom 조작, 호이스팅, 이벤트 버블링, 프로토타입
+    - AJAX(xhr) 공부
+    - javascript es6+
+    - git 버전관리(github, bitbucket, gitlab)
+    - http/https 프로토콜 공부
+    - 자료구조 / 알고리즘 / 디자인 패턴
+    - react (프론트엔드 개발자 로드맵 6) + nomad coder + velopert
     
+##### backend의 길
+    - javascript concept 1(자바스크립트 기본 문법), 2(dom 조작)
+    - 인터넷 작동 원리
+    - http의 개념
+    - 브라우저 동작 원리
+    - 호스팅 개념
+    - DNS와 작동 원리
+    - 도메인 네임이란?
+    - OS의 일반적인 작동 방식
+    - 프로세스 및 메모리 관리
+    - 프로세스 통신(IPC)
+    - 입출력(I/O)관리
+    - 스레드와 동시성
+    - 기본적인 터미널 명령어 (grep, awk, sed, lsof, curl, wget, tail, head, less, find, ssh, kill)
+    - 기본 네트워크 개념
+    - POSIX 기초 (stdin, stdout, stderr, pipes)
+    - 자바스크립트 핵심 개념 + node.js 조현영
+
+##### fullstack의 길
+    - memi-site
+    - full-stack class 1,2
     
 #### lINK
  - https://medium.com/@bluesh55/javascript-prototype-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-f8e67c286b67 <<= javascript prototype
